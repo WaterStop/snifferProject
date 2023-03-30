@@ -1,12 +1,9 @@
-> 王森    2021E8012020
-
 #### 实验概述
 
 > 实验名称：嗅探器设计与实现
 > 操作系统：Windows
 > 实验平台：Visual Stdio 2022
 > 语言：C++
-> Git链接：https://gitee.com/water_stop/sniffer
 
 #### 项目设计原理
 ![image-20220330191902976](https://gitee.com/water_stop/pic-store/raw/master/image/image-20220330191902976.png)
